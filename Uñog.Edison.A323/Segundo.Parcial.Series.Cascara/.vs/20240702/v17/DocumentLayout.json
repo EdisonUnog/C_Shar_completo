@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Repo_SP\\U\u00F1og.Edison.A323\\Segundo.Parcial.Series.Cascara\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7D34D6-C57A-426E-8BB7-97AD86BBD986}|Entidades\\Entidades.csproj|D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Repo_SP\\U\u00F1og.Edison.A323\\Segundo.Parcial.Series.Cascara\\entidades\\serializadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7D34D6-C57A-426E-8BB7-97AD86BBD986}|Entidades\\Entidades.csproj|solutionrelative:entidades\\serializadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1489AA-F57D-4D16-AB16-4417CC111898}|Vista\\Vista.csproj|d:\\1._universidad\\utn_avellaneda\\segunda_parte\\programacion_y_labo_ii\\repo_sp\\u\u00F1og.edison.a323\\segundo.parcial.series.cascara\\vista\\frmbacklog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1489AA-F57D-4D16-AB16-4417CC111898}|Vista\\Vista.csproj|solutionrelative:vista\\frmbacklog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1489AA-F57D-4D16-AB16-4417CC111898}|Vista\\Vista.csproj|D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Repo_SP\\U\u00F1og.Edison.A323\\Segundo.Parcial.Series.Cascara\\vista\\frmbacklog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4B1489AA-F57D-4D16-AB16-4417CC111898}|Vista\\Vista.csproj|solutionrelative:vista\\frmbacklog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7D34D6-C57A-426E-8BB7-97AD86BBD986}|Entidades\\Entidades.csproj|d:\\1._universidad\\utn_avellaneda\\segunda_parte\\programacion_y_labo_ii\\repo_sp\\u\u00F1og.edison.a323\\segundo.parcial.series.cascara\\entidades\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7D34D6-C57A-426E-8BB7-97AD86BBD986}|Entidades\\Entidades.csproj|solutionrelative:entidades\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7D34D6-C57A-426E-8BB7-97AD86BBD986}|Entidades\\Entidades.csproj|D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Repo_SP\\U\u00F1og.Edison.A323\\Segundo.Parcial.Series.Cascara\\entidades\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7D34D6-C57A-426E-8BB7-97AD86BBD986}|Entidades\\Entidades.csproj|solutionrelative:entidades\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7D34D6-C57A-426E-8BB7-97AD86BBD986}|Entidades\\Entidades.csproj|D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Repo_SP\\U\u00F1og.Edison.A323\\Segundo.Parcial.Series.Cascara\\entidades\\serie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7D34D6-C57A-426E-8BB7-97AD86BBD986}|Entidades\\Entidades.csproj|solutionrelative:entidades\\serie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7D34D6-C57A-426E-8BB7-97AD86BBD986}|Entidades\\Entidades.csproj|D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Repo_SP\\U\u00F1og.Edison.A323\\Segundo.Parcial.Series.Cascara\\entidades\\backlogexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7D34D6-C57A-426E-8BB7-97AD86BBD986}|Entidades\\Entidades.csproj|solutionrelative:entidades\\backlogexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7D34D6-C57A-426E-8BB7-97AD86BBD986}|Entidades\\Entidades.csproj|D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Repo_SP\\U\u00F1og.Edison.A323\\Segundo.Parcial.Series.Cascara\\entidades\\manejadorbacklog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7D34D6-C57A-426E-8BB7-97AD86BBD986}|Entidades\\Entidades.csproj|solutionrelative:entidades\\manejadorbacklog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7D34D6-C57A-426E-8BB7-97AD86BBD986}|Entidades\\Entidades.csproj|D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Repo_SP\\U\u00F1og.Edison.A323\\Segundo.Parcial.Series.Cascara\\entidades\\extensorarandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7D34D6-C57A-426E-8BB7-97AD86BBD986}|Entidades\\Entidades.csproj|solutionrelative:entidades\\extensorarandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 184,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmBacklog.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Repo_SP\\U\u00F1og.Edison.A323\\Segundo.Parcial.Series.Cascara\\Vista\\FrmBacklog.cs",
+              "RelativeDocumentMoniker": "Vista\\FrmBacklog.cs",
+              "ToolTip": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Repo_SP\\U\u00F1og.Edison.A323\\Segundo.Parcial.Series.Cascara\\Vista\\FrmBacklog.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vista\\FrmBacklog.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T00:32:56.171Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmBacklog.cs",
+              "DocumentMoniker": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Repo_SP\\U\u00F1og.Edison.A323\\Segundo.Parcial.Series.Cascara\\Vista\\FrmBacklog.cs",
+              "RelativeDocumentMoniker": "Vista\\FrmBacklog.cs",
+              "ToolTip": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Repo_SP\\U\u00F1og.Edison.A323\\Segundo.Parcial.Series.Cascara\\Vista\\FrmBacklog.cs",
+              "RelativeToolTip": "Vista\\FrmBacklog.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowF8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T22:08:53.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Serializadora.cs",
+              "DocumentMoniker": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Repo_SP\\U\u00F1og.Edison.A323\\Segundo.Parcial.Series.Cascara\\Entidades\\Serializadora.cs",
+              "RelativeDocumentMoniker": "Entidades\\Serializadora.cs",
+              "ToolTip": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Repo_SP\\U\u00F1og.Edison.A323\\Segundo.Parcial.Series.Cascara\\Entidades\\Serializadora.cs",
+              "RelativeToolTip": "Entidades\\Serializadora.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T04:31:45.064Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 216,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Repo_SP\\U\u00F1og.Edison.A323\\Segundo.Parcial.Series.Cascara\\Entidades\\Logger.cs",
+              "RelativeDocumentMoniker": "Entidades\\Logger.cs",
+              "ToolTip": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Repo_SP\\U\u00F1og.Edison.A323\\Segundo.Parcial.Series.Cascara\\Entidades\\Logger.cs",
+              "RelativeToolTip": "Entidades\\Logger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T01:14:49.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Serie.cs",
+              "DocumentMoniker": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Repo_SP\\U\u00F1og.Edison.A323\\Segundo.Parcial.Series.Cascara\\Entidades\\Serie.cs",
+              "RelativeDocumentMoniker": "Entidades\\Serie.cs",
+              "ToolTip": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Repo_SP\\U\u00F1og.Edison.A323\\Segundo.Parcial.Series.Cascara\\Entidades\\Serie.cs",
+              "RelativeToolTip": "Entidades\\Serie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T01:14:11.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BackLogException.cs",
+              "DocumentMoniker": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Repo_SP\\U\u00F1og.Edison.A323\\Segundo.Parcial.Series.Cascara\\Entidades\\BackLogException.cs",
+              "RelativeDocumentMoniker": "Entidades\\BackLogException.cs",
+              "ToolTip": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Repo_SP\\U\u00F1og.Edison.A323\\Segundo.Parcial.Series.Cascara\\Entidades\\BackLogException.cs",
+              "RelativeToolTip": "Entidades\\BackLogException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T01:01:57.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ManejadorBacklog.cs",
+              "DocumentMoniker": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Repo_SP\\U\u00F1og.Edison.A323\\Segundo.Parcial.Series.Cascara\\Entidades\\ManejadorBacklog.cs",
+              "RelativeDocumentMoniker": "Entidades\\ManejadorBacklog.cs",
+              "ToolTip": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Repo_SP\\U\u00F1og.Edison.A323\\Segundo.Parcial.Series.Cascara\\Entidades\\ManejadorBacklog.cs",
+              "RelativeToolTip": "Entidades\\ManejadorBacklog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T22:16:54.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccesoDatos.cs",
+              "DocumentMoniker": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Repo_SP\\U\u00F1og.Edison.A323\\Segundo.Parcial.Series.Cascara\\Entidades\\AccesoDatos.cs",
+              "RelativeDocumentMoniker": "Entidades\\AccesoDatos.cs",
+              "ToolTip": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Repo_SP\\U\u00F1og.Edison.A323\\Segundo.Parcial.Series.Cascara\\Entidades\\AccesoDatos.cs",
+              "RelativeToolTip": "Entidades\\AccesoDatos.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowEYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T00:23:48.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExtensoraRandom.cs",
+              "DocumentMoniker": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Repo_SP\\U\u00F1og.Edison.A323\\Segundo.Parcial.Series.Cascara\\Entidades\\ExtensoraRandom.cs",
+              "RelativeDocumentMoniker": "Entidades\\ExtensoraRandom.cs",
+              "ToolTip": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Repo_SP\\U\u00F1og.Edison.A323\\Segundo.Parcial.Series.Cascara\\Entidades\\ExtensoraRandom.cs",
+              "RelativeToolTip": "Entidades\\ExtensoraRandom.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T03:51:42.007Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
