@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Repo_SP\\Uñog.Edison.A323\\Segundo.Parcial.Series.Cascara\\Vista\\Vista.csproj": {}
+    "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\C#_Completo\\Uñog.Edison.A323\\Segundo.Parcial.Series.Cascara\\Vista\\Vista.csproj": {}
   },
   "projects": {
-    "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Repo_SP\\Uñog.Edison.A323\\Segundo.Parcial.Series.Cascara\\Entidades\\Entidades.csproj": {
+    "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\C#_Completo\\Uñog.Edison.A323\\Segundo.Parcial.Series.Cascara\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Repo_SP\\Uñog.Edison.A323\\Segundo.Parcial.Series.Cascara\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\C#_Completo\\Uñog.Edison.A323\\Segundo.Parcial.Series.Cascara\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Repo_SP\\Uñog.Edison.A323\\Segundo.Parcial.Series.Cascara\\Entidades\\Entidades.csproj",
+        "projectPath": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\C#_Completo\\Uñog.Edison.A323\\Segundo.Parcial.Series.Cascara\\Entidades\\Entidades.csproj",
         "packagesPath": "C:\\Users\\ediso\\.nuget\\packages\\",
-        "outputPath": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Repo_SP\\Uñog.Edison.A323\\Segundo.Parcial.Series.Cascara\\Entidades\\obj\\",
+        "outputPath": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\C#_Completo\\Uñog.Edison.A323\\Segundo.Parcial.Series.Cascara\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ediso\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -70,14 +70,14 @@
         }
       }
     },
-    "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Repo_SP\\Uñog.Edison.A323\\Segundo.Parcial.Series.Cascara\\Vista\\Vista.csproj": {
+    "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\C#_Completo\\Uñog.Edison.A323\\Segundo.Parcial.Series.Cascara\\Vista\\Vista.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Repo_SP\\Uñog.Edison.A323\\Segundo.Parcial.Series.Cascara\\Vista\\Vista.csproj",
+        "projectUniqueName": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\C#_Completo\\Uñog.Edison.A323\\Segundo.Parcial.Series.Cascara\\Vista\\Vista.csproj",
         "projectName": "Vista",
-        "projectPath": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Repo_SP\\Uñog.Edison.A323\\Segundo.Parcial.Series.Cascara\\Vista\\Vista.csproj",
+        "projectPath": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\C#_Completo\\Uñog.Edison.A323\\Segundo.Parcial.Series.Cascara\\Vista\\Vista.csproj",
         "packagesPath": "C:\\Users\\ediso\\.nuget\\packages\\",
-        "outputPath": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Repo_SP\\Uñog.Edison.A323\\Segundo.Parcial.Series.Cascara\\Vista\\obj\\",
+        "outputPath": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\C#_Completo\\Uñog.Edison.A323\\Segundo.Parcial.Series.Cascara\\Vista\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ediso\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -94,8 +94,8 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Repo_SP\\Uñog.Edison.A323\\Segundo.Parcial.Series.Cascara\\Entidades\\Entidades.csproj": {
-                "projectPath": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Repo_SP\\Uñog.Edison.A323\\Segundo.Parcial.Series.Cascara\\Entidades\\Entidades.csproj"
+              "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\C#_Completo\\Uñog.Edison.A323\\Segundo.Parcial.Series.Cascara\\Entidades\\Entidades.csproj": {
+                "projectPath": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\C#_Completo\\Uñog.Edison.A323\\Segundo.Parcial.Series.Cascara\\Entidades\\Entidades.csproj"
               }
             }
           }

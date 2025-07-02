@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Segundo.Parcial.Bomberos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B079B107-C490-45B2-876F-D0ED945D1514}|Entidades\\Entidades.csproj|D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Segundo.Parcial.Bomberos\\entidades\\logdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B079B107-C490-45B2-876F-D0ED945D1514}|Entidades\\Entidades.csproj|solutionrelative:entidades\\logdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BA25D1-08C7-4498-903F-9AC8678EB09D}|Formulario\\Formulario.csproj|d:\\1._universidad\\utn_avellaneda\\segunda_parte\\programacion_y_labo_ii\\segundo.parcial.bomberos\\formulario\\cuartel2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BA25D1-08C7-4498-903F-9AC8678EB09D}|Formulario\\Formulario.csproj|solutionrelative:formulario\\cuartel2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B079B107-C490-45B2-876F-D0ED945D1514}|Entidades\\Entidades.csproj|d:\\1._universidad\\utn_avellaneda\\segunda_parte\\programacion_y_labo_ii\\segundo.parcial.bomberos\\entidades\\bombero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B079B107-C490-45B2-876F-D0ED945D1514}|Entidades\\Entidades.csproj|solutionrelative:entidades\\bombero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B079B107-C490-45B2-876F-D0ED945D1514}|Entidades\\Entidades.csproj|D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Segundo.Parcial.Bomberos\\entidades\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B079B107-C490-45B2-876F-D0ED945D1514}|Entidades\\Entidades.csproj|solutionrelative:entidades\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B079B107-C490-45B2-876F-D0ED945D1514}|Entidades\\Entidades.csproj|D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Segundo.Parcial.Bomberos\\entidades\\salida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B079B107-C490-45B2-876F-D0ED945D1514}|Entidades\\Entidades.csproj|solutionrelative:entidades\\salida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B079B107-C490-45B2-876F-D0ED945D1514}|Entidades\\Entidades.csproj|D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Segundo.Parcial.Bomberos\\entidades\\iarchivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B079B107-C490-45B2-876F-D0ED945D1514}|Entidades\\Entidades.csproj|solutionrelative:entidades\\iarchivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B079B107-C490-45B2-876F-D0ED945D1514}|Entidades\\Entidades.csproj|D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Segundo.Parcial.Bomberos\\entidades\\bomberoocupadoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B079B107-C490-45B2-876F-D0ED945D1514}|Entidades\\Entidades.csproj|solutionrelative:entidades\\bomberoocupadoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BA25D1-08C7-4498-903F-9AC8678EB09D}|Formulario\\Formulario.csproj|D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Segundo.Parcial.Bomberos\\formulario\\cuartel2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98BA25D1-08C7-4498-903F-9AC8678EB09D}|Formulario\\Formulario.csproj|solutionrelative:formulario\\cuartel2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 354,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cuartel2.cs",
+              "DocumentMoniker": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Segundo.Parcial.Bomberos\\Formulario\\Cuartel2.cs",
+              "RelativeDocumentMoniker": "Formulario\\Cuartel2.cs",
+              "ToolTip": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Segundo.Parcial.Bomberos\\Formulario\\Cuartel2.cs",
+              "RelativeToolTip": "Formulario\\Cuartel2.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T21:39:58.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Salida.cs",
+              "DocumentMoniker": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Segundo.Parcial.Bomberos\\Entidades\\Salida.cs",
+              "RelativeDocumentMoniker": "Entidades\\Salida.cs",
+              "ToolTip": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Segundo.Parcial.Bomberos\\Entidades\\Salida.cs",
+              "RelativeToolTip": "Entidades\\Salida.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T22:26:23.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Extension.cs",
+              "DocumentMoniker": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Segundo.Parcial.Bomberos\\Entidades\\Extension.cs",
+              "RelativeDocumentMoniker": "Entidades\\Extension.cs",
+              "ToolTip": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Segundo.Parcial.Bomberos\\Entidades\\Extension.cs",
+              "RelativeToolTip": "Entidades\\Extension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T22:30:54.476Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 485,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bombero.cs",
+              "DocumentMoniker": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Segundo.Parcial.Bomberos\\Entidades\\Bombero.cs",
+              "RelativeDocumentMoniker": "Entidades\\Bombero.cs",
+              "ToolTip": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Segundo.Parcial.Bomberos\\Entidades\\Bombero.cs",
+              "RelativeToolTip": "Entidades\\Bombero.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwB4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T22:25:43.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IArchivo.cs",
+              "DocumentMoniker": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Segundo.Parcial.Bomberos\\Entidades\\IArchivo.cs",
+              "RelativeDocumentMoniker": "Entidades\\IArchivo.cs",
+              "ToolTip": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Segundo.Parcial.Bomberos\\Entidades\\IArchivo.cs",
+              "RelativeToolTip": "Entidades\\IArchivo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T22:26:44.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cuartel2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Segundo.Parcial.Bomberos\\Formulario\\Cuartel2.cs",
+              "RelativeDocumentMoniker": "Formulario\\Cuartel2.cs",
+              "ToolTip": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Segundo.Parcial.Bomberos\\Formulario\\Cuartel2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formulario\\Cuartel2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T00:07:40.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BomberoOcupadoException.cs",
+              "DocumentMoniker": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Segundo.Parcial.Bomberos\\Entidades\\BomberoOcupadoException.cs",
+              "RelativeDocumentMoniker": "Entidades\\BomberoOcupadoException.cs",
+              "ToolTip": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Segundo.Parcial.Bomberos\\Entidades\\BomberoOcupadoException.cs",
+              "RelativeToolTip": "Entidades\\BomberoOcupadoException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T22:39:28.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LogDao.cs",
+              "DocumentMoniker": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Segundo.Parcial.Bomberos\\Entidades\\LogDao.cs",
+              "RelativeDocumentMoniker": "Entidades\\LogDao.cs",
+              "ToolTip": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Segundo.Parcial.Bomberos\\Entidades\\LogDao.cs",
+              "RelativeToolTip": "Entidades\\LogDao.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T23:12:33.836Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

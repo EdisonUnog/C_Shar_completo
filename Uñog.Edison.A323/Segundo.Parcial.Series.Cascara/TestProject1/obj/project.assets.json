@@ -2761,11 +2761,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Repo_SP\\Uñog.Edison.A323\\Segundo.Parcial.Series.Cascara\\TestProject1\\TestProject1.csproj",
+      "projectUniqueName": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\C#_Completo\\Uñog.Edison.A323\\Segundo.Parcial.Series.Cascara\\TestProject1\\TestProject1.csproj",
       "projectName": "TestProject1",
-      "projectPath": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Repo_SP\\Uñog.Edison.A323\\Segundo.Parcial.Series.Cascara\\TestProject1\\TestProject1.csproj",
+      "projectPath": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\C#_Completo\\Uñog.Edison.A323\\Segundo.Parcial.Series.Cascara\\TestProject1\\TestProject1.csproj",
       "packagesPath": "C:\\Users\\ediso\\.nuget\\packages\\",
-      "outputPath": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Repo_SP\\Uñog.Edison.A323\\Segundo.Parcial.Series.Cascara\\TestProject1\\obj\\",
+      "outputPath": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\C#_Completo\\Uñog.Edison.A323\\Segundo.Parcial.Series.Cascara\\TestProject1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ediso\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2782,8 +2782,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Repo_SP\\Uñog.Edison.A323\\Segundo.Parcial.Series.Cascara\\Entidades\\Entidades.csproj": {
-              "projectPath": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Repo_SP\\Uñog.Edison.A323\\Segundo.Parcial.Series.Cascara\\Entidades\\Entidades.csproj"
+            "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\C#_Completo\\Uñog.Edison.A323\\Segundo.Parcial.Series.Cascara\\Entidades\\Entidades.csproj": {
+              "projectPath": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\C#_Completo\\Uñog.Edison.A323\\Segundo.Parcial.Series.Cascara\\Entidades\\Entidades.csproj"
             }
           }
         }

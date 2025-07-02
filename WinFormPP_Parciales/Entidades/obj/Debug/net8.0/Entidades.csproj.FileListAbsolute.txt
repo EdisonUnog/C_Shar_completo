@@ -1,0 +1,11 @@
+D:\1._UNIVERSIDAD\UTN_Avellaneda\SEGUNDA_PARTE\PROGRAMACION_Y_LABO_II\ConsoleApp1\Entidades\bin\Debug\net8.0\Entidades.deps.json
+D:\1._UNIVERSIDAD\UTN_Avellaneda\SEGUNDA_PARTE\PROGRAMACION_Y_LABO_II\ConsoleApp1\Entidades\bin\Debug\net8.0\Entidades.dll
+D:\1._UNIVERSIDAD\UTN_Avellaneda\SEGUNDA_PARTE\PROGRAMACION_Y_LABO_II\ConsoleApp1\Entidades\bin\Debug\net8.0\Entidades.pdb
+D:\1._UNIVERSIDAD\UTN_Avellaneda\SEGUNDA_PARTE\PROGRAMACION_Y_LABO_II\ConsoleApp1\Entidades\obj\Debug\net8.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\1._UNIVERSIDAD\UTN_Avellaneda\SEGUNDA_PARTE\PROGRAMACION_Y_LABO_II\ConsoleApp1\Entidades\obj\Debug\net8.0\Entidades.AssemblyInfoInputs.cache
+D:\1._UNIVERSIDAD\UTN_Avellaneda\SEGUNDA_PARTE\PROGRAMACION_Y_LABO_II\ConsoleApp1\Entidades\obj\Debug\net8.0\Entidades.AssemblyInfo.cs
+D:\1._UNIVERSIDAD\UTN_Avellaneda\SEGUNDA_PARTE\PROGRAMACION_Y_LABO_II\ConsoleApp1\Entidades\obj\Debug\net8.0\Entidades.csproj.CoreCompileInputs.cache
+D:\1._UNIVERSIDAD\UTN_Avellaneda\SEGUNDA_PARTE\PROGRAMACION_Y_LABO_II\ConsoleApp1\Entidades\obj\Debug\net8.0\Entidades.dll
+D:\1._UNIVERSIDAD\UTN_Avellaneda\SEGUNDA_PARTE\PROGRAMACION_Y_LABO_II\ConsoleApp1\Entidades\obj\Debug\net8.0\refint\Entidades.dll
+D:\1._UNIVERSIDAD\UTN_Avellaneda\SEGUNDA_PARTE\PROGRAMACION_Y_LABO_II\ConsoleApp1\Entidades\obj\Debug\net8.0\Entidades.pdb
+D:\1._UNIVERSIDAD\UTN_Avellaneda\SEGUNDA_PARTE\PROGRAMACION_Y_LABO_II\ConsoleApp1\Entidades\obj\Debug\net8.0\ref\Entidades.dll

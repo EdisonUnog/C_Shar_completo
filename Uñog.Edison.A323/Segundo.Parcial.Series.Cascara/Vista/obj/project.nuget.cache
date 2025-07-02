@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MBGrBzKAUBZFOL/CcWlEFeSbvVsdmgVw63yFLkS4yCgWvgSRUR+it5vLMTzTmwu8o3DRPC6oyifHPTTRRxEfEg==",
+  "dgSpecHash": "/3EMVoN0w5OgjIsQ8IXklMRQHiEBt/ri4uGKr/uCnoiIO15mHLPVBE8q03gf5fxHldawbV8NEkmCnxg/y4RMig==",
   "success": true,
-  "projectFilePath": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Repo_SP\\Uñog.Edison.A323\\Segundo.Parcial.Series.Cascara\\Vista\\Vista.csproj",
+  "projectFilePath": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\C#_Completo\\Uñog.Edison.A323\\Segundo.Parcial.Series.Cascara\\Vista\\Vista.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ediso\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\ediso\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

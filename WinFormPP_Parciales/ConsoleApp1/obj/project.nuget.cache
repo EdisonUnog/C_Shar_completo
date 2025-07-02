@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "iAkgXbLof/m8ZGr+B5akCN0iNZ4R35OvpBpfNNh5m6l6AHEkTiSOhqTcO1aJ6g5BxSQGvixKqRJocy0dmj9kGw==",
+  "success": true,
+  "projectFilePath": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\WinFormPP_Parciales\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ediso\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.4\\microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512",
+    "C:\\Users\\ediso\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\ediso\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.4\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

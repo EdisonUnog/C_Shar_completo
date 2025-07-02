@@ -22,3 +22,16 @@ D:\1._UNIVERSIDAD\UTN_Avellaneda\SEGUNDA_PARTE\PROGRAMACION_Y_LABO_II\Repo_SP\U�
 D:\1._UNIVERSIDAD\UTN_Avellaneda\SEGUNDA_PARTE\PROGRAMACION_Y_LABO_II\Repo_SP\Uñog.Edison.A323\Segundo.Parcial.Series.Cascara\Entidades\obj\Debug\net6.0\refint\Entidades.dll
 D:\1._UNIVERSIDAD\UTN_Avellaneda\SEGUNDA_PARTE\PROGRAMACION_Y_LABO_II\Repo_SP\Uñog.Edison.A323\Segundo.Parcial.Series.Cascara\Entidades\obj\Debug\net6.0\Entidades.pdb
 D:\1._UNIVERSIDAD\UTN_Avellaneda\SEGUNDA_PARTE\PROGRAMACION_Y_LABO_II\Repo_SP\Uñog.Edison.A323\Segundo.Parcial.Series.Cascara\Entidades\obj\Debug\net6.0\ref\Entidades.dll
+D:\1._UNIVERSIDAD\UTN_Avellaneda\SEGUNDA_PARTE\PROGRAMACION_Y_LABO_II\C#_Completo\Uñog.Edison.A323\Segundo.Parcial.Series.Cascara\Entidades\bin\Debug\net6.0\Entidades.deps.json
+D:\1._UNIVERSIDAD\UTN_Avellaneda\SEGUNDA_PARTE\PROGRAMACION_Y_LABO_II\C#_Completo\Uñog.Edison.A323\Segundo.Parcial.Series.Cascara\Entidades\bin\Debug\net6.0\Entidades.dll
+D:\1._UNIVERSIDAD\UTN_Avellaneda\SEGUNDA_PARTE\PROGRAMACION_Y_LABO_II\C#_Completo\Uñog.Edison.A323\Segundo.Parcial.Series.Cascara\Entidades\bin\Debug\net6.0\Entidades.pdb
+D:\1._UNIVERSIDAD\UTN_Avellaneda\SEGUNDA_PARTE\PROGRAMACION_Y_LABO_II\C#_Completo\Uñog.Edison.A323\Segundo.Parcial.Series.Cascara\Entidades\obj\Debug\net6.0\Entidades.csproj.AssemblyReference.cache
+D:\1._UNIVERSIDAD\UTN_Avellaneda\SEGUNDA_PARTE\PROGRAMACION_Y_LABO_II\C#_Completo\Uñog.Edison.A323\Segundo.Parcial.Series.Cascara\Entidades\obj\Debug\net6.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\1._UNIVERSIDAD\UTN_Avellaneda\SEGUNDA_PARTE\PROGRAMACION_Y_LABO_II\C#_Completo\Uñog.Edison.A323\Segundo.Parcial.Series.Cascara\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfoInputs.cache
+D:\1._UNIVERSIDAD\UTN_Avellaneda\SEGUNDA_PARTE\PROGRAMACION_Y_LABO_II\C#_Completo\Uñog.Edison.A323\Segundo.Parcial.Series.Cascara\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfo.cs
+D:\1._UNIVERSIDAD\UTN_Avellaneda\SEGUNDA_PARTE\PROGRAMACION_Y_LABO_II\C#_Completo\Uñog.Edison.A323\Segundo.Parcial.Series.Cascara\Entidades\obj\Debug\net6.0\Entidades.csproj.CoreCompileInputs.cache
+D:\1._UNIVERSIDAD\UTN_Avellaneda\SEGUNDA_PARTE\PROGRAMACION_Y_LABO_II\C#_Completo\Uñog.Edison.A323\Segundo.Parcial.Series.Cascara\Entidades\obj\Debug\net6.0\Entidades.sourcelink.json
+D:\1._UNIVERSIDAD\UTN_Avellaneda\SEGUNDA_PARTE\PROGRAMACION_Y_LABO_II\C#_Completo\Uñog.Edison.A323\Segundo.Parcial.Series.Cascara\Entidades\obj\Debug\net6.0\Entidades.dll
+D:\1._UNIVERSIDAD\UTN_Avellaneda\SEGUNDA_PARTE\PROGRAMACION_Y_LABO_II\C#_Completo\Uñog.Edison.A323\Segundo.Parcial.Series.Cascara\Entidades\obj\Debug\net6.0\refint\Entidades.dll
+D:\1._UNIVERSIDAD\UTN_Avellaneda\SEGUNDA_PARTE\PROGRAMACION_Y_LABO_II\C#_Completo\Uñog.Edison.A323\Segundo.Parcial.Series.Cascara\Entidades\obj\Debug\net6.0\Entidades.pdb
+D:\1._UNIVERSIDAD\UTN_Avellaneda\SEGUNDA_PARTE\PROGRAMACION_Y_LABO_II\C#_Completo\Uñog.Edison.A323\Segundo.Parcial.Series.Cascara\Entidades\obj\Debug\net6.0\ref\Entidades.dll

@@ -1,0 +1,156 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "EntidadesDispositivoRepaso/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/EntidadesDispositivoRepaso.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EntidadesDispositivoRepaso.dll": {}
+        }
+      },
+      "EntidadesLibreriaRepaso/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/EntidadesLibreriaRepaso.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EntidadesLibreriaRepaso.dll": {}
+        }
+      },
+      "EntidadesPaciantePP/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/EntidadesPaciantePP.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EntidadesPaciantePP.dll": {}
+        }
+      },
+      "EntidadesRobotPrueba/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/EntidadesRobotPrueba.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EntidadesRobotPrueba.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EntidadesDispositivoRepaso/1.0.0": {
+      "type": "project",
+      "path": "../EntidadesDispositivoRepaso/EntidadesDispositivoRepaso.csproj",
+      "msbuildProject": "../EntidadesDispositivoRepaso/EntidadesDispositivoRepaso.csproj"
+    },
+    "EntidadesLibreriaRepaso/1.0.0": {
+      "type": "project",
+      "path": "../EntidadesLibreriaRepaso/EntidadesLibreriaRepaso.csproj",
+      "msbuildProject": "../EntidadesLibreriaRepaso/EntidadesLibreriaRepaso.csproj"
+    },
+    "EntidadesPaciantePP/1.0.0": {
+      "type": "project",
+      "path": "../EntidadesPaciantePP/EntidadesPaciantePP.csproj",
+      "msbuildProject": "../EntidadesPaciantePP/EntidadesPaciantePP.csproj"
+    },
+    "EntidadesRobotPrueba/1.0.0": {
+      "type": "project",
+      "path": "../EntidadesRobotPrueba/EntidadesRobotPrueba.csproj",
+      "msbuildProject": "../EntidadesRobotPrueba/EntidadesRobotPrueba.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "EntidadesDispositivoRepaso >= 1.0.0",
+      "EntidadesLibreriaRepaso >= 1.0.0",
+      "EntidadesPaciantePP >= 1.0.0",
+      "EntidadesRobotPrueba >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ediso\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\WinFormPP_Parciales\\BaseWinFormsApp\\BaseWinFormsApp.csproj",
+      "projectName": "BaseWinFormsApp",
+      "projectPath": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\WinFormPP_Parciales\\BaseWinFormsApp\\BaseWinFormsApp.csproj",
+      "packagesPath": "C:\\Users\\ediso\\.nuget\\packages\\",
+      "outputPath": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\WinFormPP_Parciales\\BaseWinFormsApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\ediso\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {
+            "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\WinFormPP_Parciales\\EntidadesDispositivoRepaso\\EntidadesDispositivoRepaso.csproj": {
+              "projectPath": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\WinFormPP_Parciales\\EntidadesDispositivoRepaso\\EntidadesDispositivoRepaso.csproj"
+            },
+            "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\WinFormPP_Parciales\\EntidadesLibreriaRepaso\\EntidadesLibreriaRepaso.csproj": {
+              "projectPath": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\WinFormPP_Parciales\\EntidadesLibreriaRepaso\\EntidadesLibreriaRepaso.csproj"
+            },
+            "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\WinFormPP_Parciales\\EntidadesPaciantePP\\EntidadesPaciantePP.csproj": {
+              "projectPath": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\WinFormPP_Parciales\\EntidadesPaciantePP\\EntidadesPaciantePP.csproj"
+            },
+            "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\WinFormPP_Parciales\\EntidadesRobotPrueba\\EntidadesRobotPrueba.csproj": {
+              "projectPath": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\WinFormPP_Parciales\\EntidadesRobotPrueba\\EntidadesRobotPrueba.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rxSG6026gt+E24575gusWuZo0TXvt0J89Ythrn/L3ik3RE75nz0sy+qrgo/DibbaMEdyZAbArX5uGr+ARHpOEw==",
+  "dgSpecHash": "EdFUjcrFWOFK9a3BS1V+wKOY/7v1GHR7SIN7mOspDwzzDHMMbLqLeJ2jq9m4mnRZ+rIiBKuWY0zxpPzjv8TrJg==",
   "success": true,
-  "projectFilePath": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\Repo_SP\\Uñog.Edison.A323\\Segundo.Parcial.Series.Cascara\\TestProject1\\TestProject1.csproj",
+  "projectFilePath": "D:\\1._UNIVERSIDAD\\UTN_Avellaneda\\SEGUNDA_PARTE\\PROGRAMACION_Y_LABO_II\\C#_Completo\\Uñog.Edison.A323\\Segundo.Parcial.Series.Cascara\\TestProject1\\TestProject1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ediso\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\ediso\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",
